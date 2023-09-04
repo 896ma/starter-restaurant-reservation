@@ -8,7 +8,7 @@ There are no user stories for deployment: it is expected that you will deploy th
 
 There are no user stories for logging: it is expected that you will add logging to the application with enough detail to help you diagnose issues in production.
 
-## Existing files
+## Existing files 
 
 This repository is set up as a *monorepo*, meaning that the frontend and backend projects are in one repository. This allows you to open both projects in the same editor.
 
@@ -26,6 +26,7 @@ This starter code closely follows the best practices and patterns established in
 **Note**: Please do not submit a pull request to this repository with your solution.
 
 ### Backend Existing files
+### Backend Existing files to be changed 
 
 The `./back-end` folder contains all the code for the backend project.
 
@@ -47,6 +48,8 @@ The table below describes the existing files in the `./back-end` folder:
 | `./back-end/vercel.json`                                 | A vercel deployment configuration file. You will not need to make changes to this file.                             |
 
 ### Frontend Existing files
+### Frontend Existing file to be added
+
 
 The `./front-end` folder contains all the code for the frontend project.
 
